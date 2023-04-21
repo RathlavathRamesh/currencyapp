@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.logo {
+  height: 4vh;
+}
+.box2 {
+  list-style-type: none;
+  height: 8vh;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 0px;
+}
+.usd1 {
+  margin-left: 2vh;
+  color: #ffffff;
+  font-size: 12px;
+}
+.cuname {
+  color: #ffffff;
+  font-size: 20px;
+  margin-left: 2vh;
+}

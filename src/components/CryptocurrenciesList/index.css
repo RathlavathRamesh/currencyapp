@@ -1,0 +1,41 @@
+/* Write your CSS code here */
+.heading {
+  color: #00e7ff;
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+}
+* {
+  margin: 0px;
+}
+.bgImage {
+  height: 35vh;
+  margin-left: 15vh;
+}
+.box {
+  background-color: #092e33;
+  height: 8vh;
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 18px;
+  margin-left: 0px;
+}
+.usd {
+  margin-left: 3vh;
+}
+.sm {
+  display: flex;
+  margin-right: 4vh;
+  padding: 10px;
+}
+.Items-Box {
+  height: 60vh;
+  width: 65vw;
+  border-style: solid;
+  border-color: #00e7ff;
+  border-width: 7px;
+  margin-left: 10px;
+}
